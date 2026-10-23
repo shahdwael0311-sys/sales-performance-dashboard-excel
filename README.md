@@ -24,10 +24,6 @@ This project analyzes Superstore sales data using Microsoft Excel to identify sa
 
 ## Key Findings
 - Total Sales: $2,297,200.86
-
-- ## Dashboard Preview
-
-![Sales Performance Dashboard](sales-dashboard.png)
 - Total Quantity Sold: 37,873
 - Highest-Selling Category: Technology
 - Highest-Selling Region: West
@@ -35,3 +31,7 @@ This project analyzes Superstore sales data using Microsoft Excel to identify sa
 
 ## Skills Demonstrated
 Data cleaning, spreadsheet formulas, PivotTable analysis, trend analysis, and dashboard development.
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](sales-dashboard.png)
